@@ -1,4 +1,5 @@
 describe('GitHub API Test', () => {
+    //Adicionar o código token entre as chaves ' ' na linha de baixo em "const token = '' ; "
     const token = '';
     const nexDom = 'teste-cypress-api';
     const owner = 'Araujinhoo';
