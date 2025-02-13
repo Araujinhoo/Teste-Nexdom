@@ -1,5 +1,5 @@
 describe('GitHub API Test', () => {
-    const token = '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 ';
+    const token = '';
     const nexDom = 'teste-cypress-api';
     const owner = 'Araujinhoo';
     const issueTitle = 'Teste de Issue';
