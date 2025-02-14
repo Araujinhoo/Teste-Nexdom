@@ -5,7 +5,7 @@ describe('Tela de Contato', () => {
   })
 
 
-  it( 'Cenario-Preenchendo todos os campos', () => {
+  it( 'Cenario-Preenchendo todos os campos da tela de contato', () => {
     //Quando clicar no campo de Contato
     cy.contains('Contato').click();
     //E preencher o formulário
