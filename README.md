@@ -1,7 +1,7 @@
 Teste Nexdom
 
 Projeto elaborado para cumprir o desafio proposto pela Nexdom. Onde foram realizadas automações
-tanto em frontend como no backend atrasvés de consultas a API, projeto feito em Cypres.
+tanto em frontend como no backend através de consultas a API, projeto feito em Cypress.
 
 🚀 Tecnologias
 
@@ -46,11 +46,11 @@ npm install  # ou yarn install
 
 # Execute o projeto
 Abra do terminal do próprio cypress (ctrl + j)                               
-Se quiser rodar o os teste no próprio terminal, basta digitar no terminal  "npx cypress run"                                      
-Se quiser também pode abrir o navegador do cypress para visualizar a automação sendo executada, basta digitar no terminal  "npx cypress run"                                      
+Se quiser rodar os teste no próprio terminal, basta digitar no terminal  "npx cypress run"                                      
+Se quiser, também pode abrir o navegador do cypress para visualizar a automação sendo executada, basta digitar no terminal  "npx cypress run"                                      
 
-# Execução dos teste de API
-Para executar os testes de API é necessário utilizar a chave token "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". Basta acessar o a pasta api-git,cy.js e no comando "const token = ' '; " aidicionar o token entre as chaves ' ' 
+# Execução dos testes de API
+Para executar os testes de API é necessário utilizar a chave token "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". Basta acessar a pasta api-git,cy.js e no comando "const token = ' '; " adicionar o token entre as chaves ' ' 
 
 🔗 Links Úteis                       
 Documentação Cypress                                   

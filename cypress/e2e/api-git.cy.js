@@ -1,6 +1,6 @@
 describe('GitHub API Test', () => {
     //Necessário adicinar a chave token descrita no Readme
-    const token = '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';
+    const token = '';
     const nexDom = 'teste-cypress-api';
     const owner = 'Araujinhoo';
     const issueTitle = 'Teste de Issue';
